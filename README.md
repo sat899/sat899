@@ -6,7 +6,7 @@
 
 - I'm an **AI/ML Engineer** with a passion for building intuitive and usable AI software systems & products.  
 - I am deeply interested in **Healthcare** and **Startups**.  
-- I enjoy building and learning about new AI/ML techniques, specifically **NLP, LLMs, Search, Information Retrieval & Recommendation Systems**.  
+- I enjoy building and learning about new AI/ML techniques, especially in the areas of **NLP, LLMs, Search, Information Retrieval & Recommendation Systems**.  
 
 ---
 
