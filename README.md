@@ -15,9 +15,8 @@ I'm an **AI/ML Engineer** focussed on building intuitive and usable AI software 
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py, python, c, cpp, fastapi, flask, nodejs, sklearn, pytorch, tensorflow, js, ts, react, git, aws, gcp, postgres, docker, kubernetes, nginx, redis, elasticsearch, terraform" height="50" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=py,python,c,cpp,fastapi,flask,nodejs,sklearn,pytorch,tensorflow,js,ts,react,git,aws,gcp,postgres,docker,kubernetes,nginx,redis,elasticsearch,terraform" height="50" alt="tech stack" />
 </div>
-
 <br/>
 
 ---
