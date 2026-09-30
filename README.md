@@ -4,11 +4,13 @@
 
 ### About Me
 
-I'm an **AI/ML Engineer** focussed on building intuitive and usable AI software systems & products. My areas of interest include:  
-- NLP, LLMs & AI Agents
-- Search, Information Retrieval & Recommendation Systems
-- ML Infrastructure, MLOps, Model Serving and Inference
-- AI for Healthcare
+I'm an **AI/ML Engineer** working across production AI, machine learning systems, and software engineering.
+
+Working on:
+- LLMs, agents & NLP
+- Search & recommendation systems
+- ML infrastructure, serving & low-latency inference
+- Healthcare AI
 
 ---
 
